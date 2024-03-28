@@ -2,7 +2,7 @@ name: 🐛Bug Report
 description: File a bug report here
 title: "bug: "
 labels: ["bug"]
-assignees: ["isabelroses"]
+assignees: ["0fie"]
 body:
   - type: markdown
     attributes:
@@ -24,7 +24,7 @@ body:
       label: Environment
       description: |
         Please provide the following information:
-        - OS: [e.g. Windows 10]
+        - OS: [e.g. Wubuntu]
         - Version: [e.g. 22]
     validations:
       required: true
